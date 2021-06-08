@@ -11,3 +11,5 @@ export default function GifGridItem({id, title, url}) {
         </div>
     )
 }
+
+
